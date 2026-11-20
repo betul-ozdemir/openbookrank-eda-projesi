@@ -1,0 +1,806 @@
+id,rank,title,author,year,score,ratings
+obr:work:light-bringer-54ce9,1,Light Bringer,Pierce Brown,2023,9.11,636
+obr:work:project-hail-mary,2,Project Hail Mary,Andy Weir,2021,8.99,8300
+obr:work:network-effect,3,Network Effect,Martha Wells,2020,8.93,1585
+obr:work:tiamats-wrath,4,Tiamat's Wrath,James S. A. Corey,2019,8.93,1072
+obr:work:the-martian,5,The Martian,Andy Weir,2013,8.84,6086
+obr:work:golden-son,6,Golden Son,Pierce Brown,2015,8.84,2753
+obr:work:dune,7,Dune,Frank Herbert,1965,8.82,6680
+obr:work:flowers-for-algernon,8,Flowers for Algernon,Daniel Keyes,1966,8.8,2493
+obr:work:leviathan-falls,9,Leviathan Falls,James S. A. Corey,2021,8.8,999
+obr:work:enders-game,10,Ender's Game,Orson Scott Card,1985,8.8,4910
+obr:work:yumi-and-the-nightmare-painter,11,Yumi and the Nightmare Painter,Brandon Sanderson,2023,8.8,1266
+obr:work:the-stone-sky,12,The Stone Sky,N. K. Jemisin,2017,8.78,1184
+obr:work:tress-of-the-emerald-sea,13,Tress of the Emerald Sea,Brandon Sanderson,2023,8.74,2053
+obr:work:skyward,14,Skyward,Brandon Sanderson,2018,8.73,1314
+obr:work:the-fifth-season,15,The Fifth Season,N. K. Jemisin,2015,8.72,1971
+obr:work:the-last-question,16,The Last Question,Isaac Asimov,1956,8.66,309
+obr:work:11-22-63,17,11/22/63,Stephen King,2011,8.62,1874
+obr:work:hyperion,18,Hyperion,Dan Simmons,1989,8.59,2165
+obr:work:sunrise-on-the-reaping,19,Sunrise on the Reaping,Suzanne Collins,2025,8.58,1498
+obr:work:the-hitchhikers-guide-to-the-galaxy,20,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,8.58,6138
+obr:work:morning-star-eb248,21,Morning Star,Pierce Brown,2016,8.82,2400
+obr:work:nemesis-games,22,Nemesis Games,James S. A. Corey,2015,8.69,1424
+obr:work:isles-of-the-emberdark,23,Isles of the Emberdark,Brandon Sanderson,2025,8.66,483
+obr:work:the-obelisk-gate,24,The Obelisk Gate,N. K. Jemisin,2016,8.63,1327
+obr:work:kindred-c51eb,25,Kindred,Octavia E. Butler,1979,8.58,800
+obr:work:the-galaxy-and-the-ground-within,26,"The Galaxy, and the Ground Within",Becky Chambers,2021,8.56,489
+obr:work:all-these-worlds,27,All These Worlds,Dennis E. Taylor,2017,8.55,1089
+obr:work:the-dispossessed,28,The Dispossessed,Ursula K. Le Guin,1974,8.54,933
+obr:work:children-of-time,29,Children of Time,Adrian Tchaikovsky,2015,8.52,2012
+obr:work:exit-strategy,30,Exit Strategy,Martha Wells,2018,8.52,1892
+obr:work:for-we-are-many,31,For We Are Many,Dennis E. Taylor,2017,8.49,1226
+obr:work:a-closed-and-common-orbit,32,A Closed and Common Orbit,Becky Chambers,2016,8.48,870
+obr:work:nineteen-eighty-four,33,Nineteen Eighty-Four,George Orwell,1949,8.47,9320
+obr:work:a-psalm-for-the-wild-built,34,A Psalm for the Wild-Built,Becky Chambers,2021,8.47,1008
+obr:work:thunderhead,35,Thunderhead,Neal Shusterman,2018,8.46,779
+obr:work:enders-shadow,36,Ender's Shadow,Orson Scott Card,1999,8.44,726
+obr:work:stories-of-your-life-and-others,37,Stories of Your Life and Others,Ted Chiang,2002,8.43,1151
+obr:work:a-desolation-called-peace,38,A Desolation Called Peace,Arkady Martine,2021,8.43,492
+obr:work:cress,39,Cress,Marissa Meyer,2014,8.41,627
+obr:work:we-are-legion,40,We Are Legion (We Are Bob),Dennis E. Taylor,2016,8.41,1819
+obr:work:artificial-condition,41,Artificial Condition,Martha Wells,2018,8.41,2623
+obr:work:cryptonomicon,42,Cryptonomicon,Neal Stephenson,1999,8.4,952
+obr:work:anathem-600ad,43,Anathem,Neal Stephenson,2008,8.39,728
+obr:work:nona-the-ninth,44,Nona the Ninth,Tamsyn Muir,2022,8.39,566
+obr:work:winter,45,Winter,Marissa Meyer,2015,8.39,516
+obr:work:the-stand,46,The Stand,Stephen King,1978,8.38,1956
+obr:work:second-foundation,47,Second Foundation,Isaac Asimov,1953,8.38,1303
+obr:work:speaker-for-the-dead,48,Speaker for the Dead,Orson Scott Card,1986,8.38,1637
+obr:work:parable-of-the-talents,49,Parable of the Talents,Octavia E. Butler,1998,8.37,360
+obr:work:the-player-of-games,50,The Player of Games,Iain Banks,1988,8.37,818
+obr:work:calibans-war,51,Caliban's War,James S. A. Corey,2012,8.65,2146
+obr:work:dark-age,52,Dark Age,Pierce Brown,2019,8.64,824
+obr:work:leviathan-wakes-97823,53,Leviathan Wakes,James S. A. Corey,2011,8.58,3174
+obr:work:persepolis-rising,54,Persepolis Rising,James S. A. Corey,2017,8.5,1131
+obr:work:the-sunlit-man,55,The Sunlit Man,Brandon Sanderson,2023,8.49,1030
+obr:work:abaddons-gate,56,Abaddon's Gate,James S. A. Corey,2013,8.42,1677
+obr:work:starsight,57,Starsight,Brandon Sanderson,2019,8.41,928
+obr:work:shield-of-sparrows,58,Shield of Sparrows,Devney Perry,2025,8.37,282
+obr:work:red-rising,59,Red Rising,Pierce Brown,2014,8.35,4193
+obr:work:the-diamond-age-fad1f,60,The Diamond Age,Neal Stephenson,1995,8.35,759
+obr:work:gemina,61,Gemina,Amie Kaufman,2016,8.35,281
+obr:work:judas-unchained,62,Judas Unchained,Peter F. Hamilton,2005,8.34,388
+obr:work:house-of-suns,63,House of Suns,Alastair Reynolds,2008,8.33,348
+obr:work:defiant,64,Defiant,Brandon Sanderson,2023,8.33,401
+obr:work:the-fated-sky,65,The Fated Sky,Mary Robinette Kowal,2018,8.33,250
+obr:work:all-systems-red,66,All Systems Red,Martha Wells,2017,8.32,3986
+obr:work:old-mans-war,67,Old Man's War,John Scalzi,2005,8.32,1827
+obr:work:fugitive-telemetry,68,Fugitive Telemetry,Martha Wells,2021,8.32,1362
+obr:work:the-left-hand-of-darkness,69,The Left Hand of Darkness,Ursula K. Le Guin,1969,8.31,1399
+obr:work:a-memory-called-empire,70,A Memory Called Empire,Arkady Martine,2019,8.31,899
+obr:work:freedom-d5e9e,71,Freedom,Daniel Suarez,2010,8.3,416
+obr:work:wool,72,Wool,Hugh Howey,2012,8.3,2035
+obr:work:cibola-burn,73,Cibola Burn,James S. A. Corey,2014,8.3,1429
+obr:work:saga-11fbb,74,Saga,Fiona Staples,,8.3,143
+obr:work:the-hunger-games,75,The Hunger Games,Suzanne Collins,2008,8.29,9286
+obr:work:scythe,76,Scythe,Neal Shusterman,2016,8.29,1273
+obr:work:the-fall-of-hyperion,77,The Fall of Hyperion,Dan Simmons,1990,8.28,1212
+obr:work:surface-detail,78,Surface Detail,Iain Banks,2010,8.28,258
+obr:work:memory,79,Memory,Lois McMaster Bujold,1996,8.28,170
+obr:work:rogue-protocol,80,Rogue Protocol,Martha Wells,2018,8.28,2211
+obr:work:cloud-cuckoo-land,81,Cloud Cuckoo Land,Anthony Doerr,2021,8.27,485
+obr:work:ashes-of-man,82,Ashes of Man,Christopher Ruocchio,,8.27,212
+obr:work:parable-of-the-sower,83,Parable of the Sower,Octavia E. Butler,1993,8.26,1164
+obr:work:rendezvous-with-rama,84,Rendezvous with Rama,Arthur C. Clarke,1973,8.26,1224
+obr:work:harrow-the-ninth,85,Harrow the Ninth,Tamsyn Muir,2020,8.26,801
+obr:work:to-be-taught-if-fortunate,86,"To Be Taught, If Fortunate",Becky Chambers,2019,8.26,666
+obr:work:illuminae,87,Illuminae,Amie Kaufman,2015,8.26,516
+obr:work:daemon-d485c,88,Daemon,Daniel Suarez,2009,8.26,624
+obr:work:babylons-ashes,89,Babylon's Ashes,James S. A. Corey,2016,8.26,1251
+obr:work:the-spear-cuts-through-water,90,The Spear Cuts Through Water,Simon Jimenez,2022,8.25,244
+obr:work:the-consuming-fire,91,The Consuming Fire,John Scalzi,2018,8.25,567
+obr:work:a-fire-upon-the-deep,92,A Fire Upon the Deep,Vernor Vinge,1992,8.24,635
+obr:work:the-end-of-eternity,93,The End of Eternity,Isaac Asimov,1955,8.24,357
+obr:work:the-calculating-stars,94,The Calculating Stars,Mary Robinette Kowal,2018,8.24,460
+obr:work:the-aeronauts-windlass,95,The Aeronaut's Windlass,Jim Butcher,2015,8.24,320
+obr:work:the-forever-war,96,The Forever War,Joe Haldeman,1974,8.23,1221
+obr:work:not-till-we-are-lost,97,Not Till We Are Lost,Dennis E. Taylor,2024,8.23,450
+obr:work:the-last-command,98,The Last Command,Timothy Zahn,1993,8.23,427
+obr:work:death-masks,99,Death Masks,Jim Butcher,2003,8.22,954
+obr:work:heavens-river,100,Heaven's River,Dennis E. Taylor,2020,8.22,787
+obr:work:jurassic-park,101,Jurassic Park,Michael Crichton,1990,8.21,2551
+obr:work:the-restaurant-at-the-end-of-the-universe,102,The Restaurant at the End of the Universe,Douglas Adams,1980,8.21,1833
+obr:work:a-beautifully-foolish-endeavor,103,A Beautifully Foolish Endeavor,Hank Green,2020,8.21,271
+obr:work:the-confusion-volume-ii-of-the-baroque-cycle,104,The Confusion,Neal Stephenson,2004,8.2,208
+obr:work:i-robot,105,"I, Robot",Isaac Asimov,1950,8.19,1723
+obr:work:2001,106,2001: A Space Odyssey,Arthur C. Clarke,1968,8.19,1398
+obr:work:the-long-way-to-a-small-angry-planet,107,"The Long Way to a Small, Angry Planet",Becky Chambers,2014,8.19,1803
+obr:work:fuzzy-nation,108,Fuzzy Nation,John Scalzi,2011,8.19,334
+obr:work:foundations-edge,109,Foundation's Edge,Isaac Asimov,1982,8.18,705
+obr:work:the-complete-robot,110,The Complete Robot,Isaac Asimov,1982,8.18,180
+obr:work:the-toll,111,The Toll,Neal Shusterman,2019,8.18,534
+obr:work:the-temporal-void,112,The Temporal Void,Peter F. Hamilton,2008,8.18,262
+obr:work:the-names,113,The Names,Florence Knapp,2025,8.18,143
+obr:work:system-collapse,114,System Collapse,Martha Wells,2023,8.18,1012
+obr:work:the-handmaids-tale,115,The Handmaid's Tale,Margaret Atwood,1985,8.17,3682
+obr:work:mistress-of-the-empire,116,Mistress of the Empire,Raymond E. Feist,1992,8.17,155
+obr:work:mirror-dance,117,Mirror Dance,Lois McMaster Bujold,1994,8.17,170
+obr:work:slaughterhouse-five,118,Slaughterhouse-Five,Kurt Vonnegut,1969,8.16,3535
+obr:work:gideon-the-ninth,119,Gideon the Ninth,Tamsyn Muir,2019,8.16,1480
+obr:work:catching-fire-2e55f,120,Catching Fire,Suzanne Collins,2009,8.16,5441
+obr:work:robots-and-empire,121,Robots and Empire,Isaac Asimov,1985,8.16,336
+obr:work:ancillary-mercy,122,Ancillary Mercy,Ann Leckie,2015,8.16,577
+obr:work:foundation,123,Foundation,Isaac Asimov,1951,8.15,2948
+obr:work:contact,124,Contact,Carl Sagan,1985,8.15,703
+obr:work:foundation-and-empire,125,Foundation and Empire,Isaac Asimov,1952,8.15,1472
+obr:work:bloodchild-and-other-stories,126,Bloodchild and Other Stories,Octavia E. Butler,1995,8.15,196
+obr:work:look-to-windward,127,Look to Windward,Iain Banks,2000,8.15,287
+obr:work:station-eleven,128,Station Eleven,Emily St. John Mandel,2014,8.14,1991
+obr:work:endymion,129,Endymion,Dan Simmons,1996,8.14,576
+obr:work:the-evolutionary-void,130,The Evolutionary Void,Peter F. Hamilton,2010,8.14,233
+obr:work:the-naked-sun,131,The Naked Sun,Isaac Asimov,1957,8.13,474
+obr:work:the-sword-of-the-lictor,132,The Sword of the Lictor,Gene Wolfe,1982,8.13,118
+obr:work:the-system-of-the-world,133,The System of the World,Neal Stephenson,2004,8.13,200
+obr:work:the-mercy-of-gods,134,The Mercy of Gods,James S. A. Corey,2024,8.12,544
+obr:work:the-caves-of-steel,135,The Caves of Steel,Isaac Asimov,1954,8.12,757
+obr:work:the-gods-themselves,136,The Gods Themselves,Isaac Asimov,1972,8.12,388
+obr:work:starter-villain,137,Starter Villain,John Scalzi,2023,8.12,938
+obr:work:record-of-a-spaceborn-few,138,Record of a Spaceborn Few,Becky Chambers,2018,8.12,624
+obr:work:barrayar,139,Barrayar,Lois McMaster Bujold,1991,8.12,270
+obr:work:we-burned-so-bright,140,We Burned So Bright,T. J. Klune,2026,8.12,75
+obr:work:the-road,141,The Road,Cormac McCarthy,2006,8.11,2774
+obr:work:gravitys-rainbow,142,Gravity's Rainbow,Thomas Pynchon,1973,8.11,214
+obr:work:excession,143,Excession,Iain Banks,1996,8.11,374
+obr:work:spin,144,Spin,Robert Charles Wilson,2005,8.11,417
+obr:work:the-hydrogen-sonata,145,The Hydrogen Sonata,Iain Banks,2012,8.11,267
+obr:work:dragonsong,146,Dragonsong,Anne McCaffrey,1976,8.11,219
+obr:work:dark-force-rising,147,Dark Force Rising,Timothy Zahn,1993,8.11,459
+obr:work:the-word-for-world-is-forest,148,The Word for World Is Forest,Ursula K. Le Guin,1972,8.11,313
+obr:work:the-three-body-problem,149,The Three-Body Problem,Liu Cixin,2006,8.1,3977
+obr:work:cats-cradle,150,Cat's Cradle,Kurt Vonnegut,1963,8.1,1541
+obr:work:snow-crash,151,Snow Crash,Neal Stephenson,1992,8.1,2272
+obr:work:a-civil-campaign,152,A Civil Campaign,Lois McMaster Bujold,1999,8.1,153
+obr:work:monsters-of-men,153,Monsters of Men,Patrick Ness,2010,8.1,220
+obr:work:dark-matter,154,Dark Matter,Blake Crouch,2016,8.09,3109
+obr:work:iron-gold,155,Iron Gold,Pierce Brown,2018,8.09,1118
+obr:work:the-last-emperox,156,The Last Emperox,John Scalzi,2020,8.09,477
+obr:work:perhaps-the-stars,157,Perhaps the Stars,Ada Palmer,2021,8.09,64
+obr:work:the-delirium-brief,158,The Delirium Brief,Charles Stross,2017,8.09,102
+obr:work:heir-to-the-empire,159,Heir to the Empire,Timothy Zahn,1991,8.09,667
+obr:work:revenant-gun,160,Revenant Gun,Yoon Ha Lee,2018,8.09,139
+obr:work:life-the-universe-and-everything,161,"Life, the Universe and Everything",Douglas Adams,1982,8.08,1494
+obr:work:livesuit,162,Livesuit,James S. A. Corey,2024,8.08,223
+obr:work:redemption-ark,163,Redemption Ark,Alastair Reynolds,2002,8.08,267
+obr:work:lost-in-a-good-book,164,Lost in a Good Book,Jasper Fforde,2002,8.08,211
+obr:work:test-of-the-twins,165,Test of the Twins,Margaret Weis,1986,8.08,149
+obr:work:the-collapsing-empire-the-interdependency,166,The Collapsing Empire,John Scalzi,2017,8.08,823
+obr:work:ready-player-one,167,Ready Player One,Ernest Cline,2011,8.07,5689
+obr:work:ancillary-justice,168,Ancillary Justice,Ann Leckie,2013,8.07,1231
+obr:work:the-claw-of-the-conciliator,169,The Claw of the Conciliator,Gene Wolfe,1981,8.07,176
+obr:work:the-ghost-brigades,170,The Ghost Brigades,John Scalzi,2006,8.07,1058
+obr:work:the-vor-game,171,The Vor Game,Lois McMaster Bujold,1990,8.07,200
+obr:work:the-institute,172,The Institute,Stephen King,2019,8.06,961
+obr:work:dragonfly-in-amber,173,Dragonfly in Amber,Diana Gabaldon,1992,8.06,413
+obr:work:the-scar,174,The Scar,China Miéville,2002,8.05,257
+obr:work:tailored-realities,175,Tailored Realities,Brandon Sanderson,2025,8.05,72
+obr:work:salvation,176,Salvation,Peter F. Hamilton,2018,8.05,212
+obr:work:roadside-picnic,177,Roadside Picnic,Arkady Strugatsky,1978,8.05,717
+obr:work:ubik,178,Ubik,Philip K. Dick,1969,8.04,806
+obr:work:the-lathe-of-heaven,179,The Lathe of Heaven,Ursula K. Le Guin,1971,8.04,629
+obr:work:the-amber-spyglass,180,The Amber Spyglass,Philip Pullman,2000,8.04,1436
+obr:work:the-faith-of-beasts,181,The Faith of Beasts,James S. A. Corey,2026,8.04,185
+obr:work:the-soldiers-of-halla,182,The Soldiers of Halla,D. J. MacHale,2009,8.04,75
+obr:work:the-apocalypse-codex,183,The Apocalypse Codex,Charles Stross,2012,8.04,152
+obr:work:columbus-day,184,Columbus Day,Craig Alanson,2016,8.04,348
+obr:work:imago,185,Imago,Octavia E. Butler,1989,8.04,169
+obr:work:matter,186,Matter,Iain Banks,2008,8.03,290
+obr:work:chasm-city,187,Chasm City,Alastair Reynolds,2001,8.03,259
+obr:work:scarlet,188,Scarlet,Marissa Meyer,2013,8.03,718
+obr:work:the-abyss-beyond-dreams,189,The Abyss Beyond Dreams,Peter F. Hamilton,2014,8.03,163
+obr:work:the-girl-with-all-the-gifts,190,The Girl with All the Gifts,Mike Carey,2014,8.02,867
+obr:work:shroud,191,Shroud,Adrian Tchaikovsky,2025,8.02,209
+obr:work:seven-surrenders,192,Seven Surrenders,Ada Palmer,2017,8.02,124
+obr:work:captain-vorpatrils-alliance,193,Captain Vorpatril's Alliance,Lois McMaster Bujold,2012,8.02,132
+obr:work:the-rivers-of-zadaa,194,The Rivers of Zadaa,D. J. MacHale,2005,8.02,88
+obr:work:the-fuller-memorandum,195,The Fuller Memorandum,Charles Stross,2010,8.02,189
+obr:work:the-skull-throne,196,The Skull Throne,Peter V. Brett,2015,8.02,269
+obr:work:adulthood-rites,197,Adulthood Rites,Octavia E. Butler,1988,8.02,204
+obr:work:shards-of-earth,198,Shards of Earth,Adrian Tchaikovsky,2021,8.02,476
+obr:work:the-rise-of-endymion,199,The Rise of Endymion,Dan Simmons,1997,8.01,537
+obr:work:an-absolutely-remarkable-thing,200,An Absolutely Remarkable Thing,Hank Green,,8.01,521
+obr:work:ancillary-sword,201,Ancillary Sword,Ann Leckie,2014,8.01,635
+obr:work:light-from-uncommon-stars,202,Light From Uncommon Stars,Ryka Aoki,2021,8.01,397
+obr:work:the-quillan-games,203,The Quillan Games,D. J. MacHale,2006,8.01,87
+obr:work:komarr,204,Komarr,Lois McMaster Bujold,1998,8.01,149
+obr:work:there-is-no-antimemetics-division,205,There Is No Antimemetics Division,qntm,2021,8.0,808
+obr:work:the-martian-chronicles,206,The Martian Chronicles,Ray Bradbury,1950,8.0,1105
+obr:work:children-of-ruin,207,Children of Ruin,Adrian Tchaikovsky,2019,8.0,838
+obr:work:cinder,208,Cinder,Marissa Meyer,2012,8.0,1271
+obr:work:the-robots-of-dawn,209,The Robots of Dawn,Isaac Asimov,1983,8.0,452
+obr:work:carpe-jugulum,210,Carpe Jugulum,Terry Pratchett,1998,8.0,398
+obr:work:the-dreaming-void,211,The Dreaming Void,Peter F. Hamilton,2007,8.0,280
+obr:work:the-neutronium-alchemist,212,The Neutronium Alchemist,Peter F. Hamilton,1997,8.0,193
+obr:work:the-world-we-make,213,The World We Make,N. K. Jemisin,2022,8.0,149
+obr:work:the-reality-bug,214,The Reality Bug,D. J. MacHale,2003,8.0,104
+obr:work:do-androids-dream-of-electric-sheep,215,Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,7.99,2523
+obr:work:the-sirens-of-titan,216,The Sirens of Titan,Kurt Vonnegut,1959,7.99,663
+obr:work:the-citadel-of-the-autarch,217,The Citadel of the Autarch,Gene Wolfe,1983,7.99,114
+obr:work:seveneves,218,Seveneves,Neal Stephenson,2015,7.98,1148
+obr:work:sea-of-tranquility-ab0aa,219,Sea of Tranquility,Emily St. John Mandel,2022,7.98,1211
+obr:work:use-of-weapons,220,Use of Weapons,Iain Banks,1990,7.98,518
+obr:work:the-last-colony,221,The Last Colony,John Scalzi,2007,7.98,862
+obr:work:the-ask-and-the-answer,222,The Ask and the Answer,Patrick Ness,2009,7.98,260
+obr:work:machine-vendetta,223,Machine Vendetta,Alastair Reynolds,,7.98,53
+obr:work:platform-decay,224,Platform Decay,Martha Wells,2026,7.98,368
+obr:work:childhoods-end,225,Childhood's End,Arthur C. Clarke,1953,7.97,912
+obr:work:perdido-street-station,226,Perdido Street Station,China Miéville,2000,7.97,608
+obr:work:unwind,227,UnWind,Neal Shusterman,2007,7.97,403
+obr:work:some-desperate-glory,228,Some Desperate Glory,Emily Tesh,2023,7.97,274
+obr:work:wild-seed,229,Wild Seed,Octavia E. Butler,1980,7.97,171
+obr:work:the-will-to-battle,230,The Will to Battle,Ada Palmer,2017,7.97,95
+obr:work:raven-rise,231,Raven Rise,D. J. MacHale,2008,7.97,79
+obr:work:sea-of-silver-light,232,Sea of Silver Light,Tad Williams,2001,7.97,94
+obr:work:the-olympian-affair,233,The Olympian Affair,Jim Butcher,2023,7.97,74
+obr:work:dawn-q9321397,234,Dawn,Octavia E. Butler,1987,7.97,451
+obr:work:a-thousand-sons,235,A Thousand Sons,Graham McNeill,2010,7.97,74
+obr:work:the-giver,236,The Giver,Lois Lowry,1993,7.96,3281
+obr:work:a-canticle-for-leibowitz,237,A Canticle for Leibowitz,Walter M. Miller,1959,7.96,699
+obr:work:cloud-atlas,238,Cloud Atlas,David Mitchell,2004,7.96,1013
+obr:work:so-long-and-thanks-for-all-the-fish,239,"So Long, and Thanks for All the Fish",Douglas Adams,1984,7.96,1170
+obr:work:the-sparrow,240,The Sparrow,Mary Doria Russell,1996,7.96,462
+obr:work:iron-widow,241,Iron Widow,Xiran Jay Zhao,2021,7.96,542
+obr:work:forward-the-foundation,242,Forward the Foundation,Isaac Asimov,1993,7.96,407
+obr:work:cytonic,243,Cytonic,Brandon Sanderson,2021,7.96,652
+obr:work:a-strange-manuscript-found-in-a-copper-cylinder,244,A Strange Manuscript Found in a Copper Cylinder,James De Mille,1888,7.96,51
+obr:work:the-infinite-extent,245,The Infinite Extent,Dennis E. Taylor,2026,7.96,91
+obr:work:the-moon-is-a-harsh-mistress,246,The Moon Is a Harsh Mistress,Robert A. Heinlein,1966,7.96,715
+obr:work:altered-carbon,247,Altered Carbon,Richard K. Morgan,2002,7.95,1042
+obr:work:the-machine-stops,248,The Machine Stops,E. M. Forster,1909,7.95,150
+obr:work:the-blind-assassin,249,The Blind Assassin,Margaret Atwood,2000,7.95,285
+obr:work:elysium-fire,250,Elysium Fire,Alastair Reynolds,2018,7.95,116
+obr:work:deathtrap,251,Deathtrap,Craig Alanson,2019,7.95,62
+obr:work:raven-stratagem,252,Raven Stratagem,Yoon Ha Lee,2017,7.95,168
+obr:work:fortunately-the-milk,253,"Fortunately, the Milk",Neil Gaiman,2013,7.95,228
+obr:work:fahrenheit-451,254,Fahrenheit 451,Ray Bradbury,1953,7.94,5668
+obr:work:the-wind-up-bird-chronicle,255,The Wind-Up Bird Chronicle,Haruki Murakami,1994,7.94,57
+obr:work:translation-state,256,Translation State,Ann Leckie,2023,7.94,255
+obr:work:ghostwritten,257,Ghostwritten,David Mitchell,1999,7.94,132
+obr:work:way-station,258,Way Station,Clifford D. Simak,1963,7.94,192
+obr:work:renegades,259,Renegades,Craig Alanson,2018,7.94,165
+obr:work:off-to-be-the-wizard,260,Off to Be the Wizard,Scott Meyer,2013,7.94,509
+obr:work:the-city-the-city,261,The City & the City,China Miéville,2009,7.94,644
+obr:work:a-clockwork-orange,262,A Clockwork Orange,Anthony Burgess,1962,7.93,1531
+obr:work:niezwyciezony,263,The Invincible,Stanisław Lem,1964,7.93,148
+obr:work:operation-bounce-house,264,Operation Bounce House,Matt Dinniman,2026,7.93,423
+obr:work:the-human-division,265,The Human Division,John Scalzi,2013,7.93,462
+obr:work:the-naked-god,266,The Naked God,Peter F. Hamilton,1999,7.93,178
+obr:work:the-black-gods-drums,267,The Black God’s Drums,P. Djèlí Clark,2018,7.93,120
+obr:work:diplomatic-immunity,268,Diplomatic Immunity,Lois McMaster Bujold,2002,7.93,133
+obr:work:rise-of-a-merchant-prince,269,Rise of a Merchant Prince,Raymond E. Feist,1995,7.93,141
+obr:work:the-lost-city-of-faar,270,The Lost City of Faar,D. J. MacHale,2003,7.93,119
+obr:work:a-darkling-plain,271,A Darkling Plain,Philip Reeve,2006,7.93,78
+obr:work:world-war-z,272,World War Z,Max Brooks,2006,7.92,2298
+obr:work:a-journey-to-the-centre-of-the-earth,273,A Journey to the Centre of the Earth,Jules Verne,1864,7.92,91
+obr:work:gateway-q651682,274,Gateway,Frederik Pohl,1976,7.92,338
+obr:work:sandkings,275,Sandkings,George R. R. Martin,1981,7.92,57
+obr:work:armageddons-children,276,Armageddon's Children,Terry Brooks,2006,7.92,59
+obr:work:borders-of-infinity,277,Borders of Infinity,Lois McMaster Bujold,1989,7.92,72
+obr:work:axiomatic,278,Axiomatic,Greg Egan,1995,7.92,76
+obr:work:the-labyrinth-index,279,The Labyrinth Index,Charles Stross,2018,7.92,92
+obr:work:children-of-memory,280,Children of Memory,Adrian Tchaikovsky,2023,7.92,485
+obr:work:unwholly,281,UnWholly,Neal Shusterman,2012,7.92,127
+obr:work:the-knife-of-never-letting-go,282,The Knife of Never Letting Go,Patrick Ness,2008,7.91,492
+obr:work:welcome-to-the-monkey-house,283,Welcome to the Monkey House,Kurt Vonnegut,1968,7.91,190
+obr:work:head-on,284,Head On,John Scalzi,2018,7.91,376
+obr:work:earth-awakens,285,Earth Awakens,Orson Scott Card,2014,7.91,107
+obr:work:brothers-in-arms,286,Brothers in Arms,Lois McMaster Bujold,1989,7.91,154
+obr:work:inhibitor-phase,287,Inhibitor Phase,Alastair Reynolds,2021,7.91,88
+obr:work:the-freeze-frame-revolution,288,The Freeze-Frame Revolution,Peter Watts,2018,7.91,133
+obr:work:the-vanished-birds,289,The Vanished Birds,Simon Jimenez,,7.91,91
+obr:work:the-never-war,290,The Never War,D. J. MacHale,2003,7.91,112
+obr:work:neuromancer,291,Neuromancer,William Gibson,1984,7.9,2283
+obr:work:prelude-to-foundation,292,Prelude to Foundation,Isaac Asimov,1988,7.9,518
+obr:work:dangerous-women,293,Dangerous Women,Megan Abbott,2013,7.9,60
+obr:work:the-guns-of-avalon,294,The Guns of Avalon,Roger Zelazny,1972,7.9,165
+obr:work:snapshot,295,Snapshot,Brandon Sanderson,2017,7.9,234
+obr:work:on-the-steel-breeze,296,On the Steel Breeze,Alastair Reynolds,2013,7.9,81
+obr:work:waking-gods-1e667,297,Waking Gods,Sylvain Neuvel,2017,7.9,395
+obr:work:dead-lies-dreaming,298,Dead Lies Dreaming,Charles Stross,2020,7.9,70
+obr:work:the-shattering-peace-q134574809,299,The Shattering Peace,John Scalzi,2025,7.89,132
+obr:work:mind-of-my-mind,300,Mind of My Mind,Octavia E. Butler,1977,7.89,79
+obr:work:sign-of-the-unicorn,301,Sign of the Unicorn,Roger Zelazny,1975,7.89,159
+obr:work:dragonsinger,302,Dragonsinger,Anne McCaffrey,1977,7.89,184
+obr:work:perfect-state,303,Perfect State,Brandon Sanderson,2015,7.89,224
+obr:work:home-habitat-range-niche-territory,304,"Home: Habitat, Range, Niche, Territory",Martha Wells,2021,7.89,457
+obr:work:rapport,305,"Rapport: Friendship, Solidarity, Communion, Empathy",Martha Wells,2025,7.89,189
+obr:work:zero-hour-a9217,306,Zero Hour,Craig Alanson,2017,7.89,192
+obr:work:erebos,307,Erebos,Ursula Poznanski,2010,7.89,68
+obr:work:the-algebraist,308,The Algebraist,Iain Banks,2004,7.88,188
+obr:work:the-androids-dream,309,The Android's Dream,John Scalzi,2006,7.88,255
+obr:work:cetaganda,310,Cetaganda,Lois McMaster Bujold,1996,7.88,180
+obr:work:dirk-gentlys-holistic-detective-agency,311,Dirk Gently's Holistic Detective Agency,Douglas Adams,1987,7.88,752
+obr:work:starfish,312,Starfish,Peter Watts,1999,7.88,131
+obr:work:shadow-of-a-dark-queen,313,Shadow of a Dark Queen,Raymond E. Feist,1994,7.88,151
+obr:work:twenty-thousand-leagues-under-the-sea,314,Twenty Thousand Leagues Under the Sea,Jules Verne,1869,7.87,68
+obr:work:the-bone-clocks,315,The Bone Clocks,David Mitchell,2014,7.87,321
+obr:work:the-cyberiad,316,The Cyberiad,Stanisław Lem,1985,7.87,123
+obr:work:one-last-stop,317,One Last Stop,Casey McQuiston,2021,7.87,532
+obr:work:absolution-gap,318,Absolution Gap,Alastair Reynolds,2003,7.87,224
+obr:work:renegades-05738,319,Renegades,Marissa Meyer,2017,7.87,294
+obr:work:fallen-dragon,320,Fallen Dragon,Peter F. Hamilton,2001,7.87,120
+obr:work:mavericks,321,Mavericks,Craig Alanson,2018,7.87,170
+obr:work:false-gods,322,False Gods,Graham McNeill,2006,7.87,206
+obr:work:breakfast-of-champions,323,Breakfast of Champions,Kurt Vonnegut,1973,7.86,947
+obr:work:the-illustrated-man,324,The Illustrated Man,Ray Bradbury,1951,7.86,411
+obr:work:the-mote-in-gods-eye,325,The Mote in God's Eye,Larry Niven,1974,7.86,415
+obr:work:permutation-city-ba8fc,326,Permutation City,Greg Egan,1994,7.86,200
+obr:work:the-kaiju-preservation-society,327,The Kaiju Preservation Society,John Scalzi,2022,7.86,952
+obr:work:the-city-and-the-stars,328,The City and the Stars,Arthur C. Clarke,1956,7.86,172
+obr:work:tuf-voyaging,329,Tuf Voyaging,George R. R. Martin,1986,7.86,84
+obr:work:the-winds-twelve-quarters,330,The Wind's Twelve Quarters,Ursula K. Le Guin,1975,7.86,56
+obr:work:dragonsdawn,331,Dragonsdawn,Anne McCaffrey,1988,7.86,123
+obr:work:sorrowland,332,Sorrowland,Rivers Solomon,2021,7.86,100
+obr:work:for-love-of-evil,333,For Love of Evil,Piers Anthony,1988,7.86,69
+obr:work:mountain-of-black-glass,334,Mountain of Black Glass,Tad Williams,1999,7.86,107
+obr:work:the-rhesus-chart,335,The Rhesus Chart,Charles Stross,2014,7.86,157
+obr:work:green-mars,336,Green Mars,Kim Stanley Robinson,1993,7.86,331
+obr:work:touching-darkness,337,Touching Darkness,Scott Westerfeld,2005,7.86,65
+obr:work:black-water,338,Black Water,D. J. MacHale,2004,7.86,97
+obr:work:diaspora,339,Diaspora,Greg Egan,1997,7.85,162
+obr:work:the-year-of-the-flood,340,The Year of the Flood,Margaret Atwood,2009,7.85,405
+obr:work:the-windup-girl,341,The Windup Girl,Paolo Bacigalupi,2009,7.85,550
+obr:work:the-fountains-of-paradise,342,The Fountains of Paradise,Arthur C. Clarke,1979,7.85,148
+obr:work:the-long-dark-tea-time-of-the-soul,343,The Long Dark Tea-Time of the Soul,Douglas Adams,1988,7.85,501
+obr:work:the-end-of-all-things,344,The End of All Things,John Scalzi,2015,7.85,383
+obr:work:kill-decision,345,Kill Decision,Daniel Suarez,2012,7.85,203
+obr:work:siege-of-darkness,346,Siege of Darkness,R. A. Salvatore,1994,7.85,135
+obr:work:empire-of-silence,347,Empire of Silence,Christopher Ruocchio,,7.85,690
+obr:work:paradise-225bb,348,Paradise,Craig Alanson,2016,7.85,233
+obr:work:the-pilgrims-of-rayne,349,The Pilgrims of Rayne,D. J. MacHale,2007,7.85,83
+obr:work:brave-new-world,350,Brave New World,Aldous Huxley,1932,7.84,4587
+obr:work:starship-troopers,351,Starship Troopers,Robert A. Heinlein,1959,7.84,1070
+obr:work:the-time-travelers-wife,352,The Time Traveler's Wife,Audrey Niffenegger,2003,7.84,1331
+obr:work:too-like-the-lightning,353,Too Like the Lightning,Ada Palmer,2016,7.84,214
+obr:work:the-urth-of-the-new-sun,354,The Urth of the New Sun,Gene Wolfe,1987,7.84,94
+obr:work:robot-dreams,355,Robot Dreams,Isaac Asimov,1986,7.84,81
+obr:work:wanderers,356,Wanderers,Chuck Wendig,2019,7.84,185
+obr:work:robot-visions,357,Robot Visions,Isaac Asimov,1990,7.84,63
+obr:work:the-future,358,The Future,Naomi Alderman,,7.84,105
+obr:work:earth-afire,359,Earth Afire,Orson Scott Card,2013,7.84,128
+obr:work:rage-of-a-demon-king,360,Rage of a Demon King,Raymond E. Feist,1997,7.84,137
+obr:work:the-jennifer-morgue,361,The Jennifer Morgue,Charles Stross,2006,7.84,229
+obr:work:the-peripheral,362,The Peripheral,William Gibson,2014,7.84,373
+obr:work:in-the-lives-of-puppets,363,In the Lives of Puppets,T. J. Klune,,7.84,316
+obr:work:you-werent-meant-to-be-human,364,You Weren't Meant to Be Human,Andrew Joseph White,2025,7.84,73
+obr:work:never-fade,365,Never Fade,Alexandra Bracken,,7.84,138
+obr:work:foundation-and-earth,366,Foundation and Earth,Isaac Asimov,1986,7.83,578
+obr:work:the-songs-of-distant-earth,367,The Songs of Distant Earth,Arthur C. Clarke,1986,7.83,91
+obr:work:friday-black,368,Friday Black,Nana Kwame Adjei-Brenyah,2018,7.83,90
+obr:work:an-unkindness-of-ghosts,369,An Unkindness of Ghosts,Rivers Solomon,2017,7.83,188
+obr:work:johnny-and-the-dead,370,Johnny and the Dead,Terry Pratchett,1993,7.83,69
+obr:work:galactic-north,371,Galactic North,Alastair Reynolds,,7.83,85
+obr:work:command-decision,372,Command Decision,Elizabeth Moon,2007,7.83,62
+obr:work:children-of-dune,373,Children of Dune,Frank Herbert,1976,7.82,1330
+obr:work:blindsight,374,Blindsight,Peter Watts,2006,7.82,785
+obr:work:mona-lisa-overdrive,375,Mona Lisa Overdrive,William Gibson,1988,7.82,463
+obr:work:the-eyre-affair,376,The Eyre Affair,Jasper Fforde,2001,7.82,442
+obr:work:the-reality-dysfunction,377,The Reality Dysfunction,Peter F. Hamilton,1996,7.82,293
+obr:work:city-of-illusions,378,City of Illusions,Ursula K. Le Guin,1967,7.82,97
+obr:work:city,379,City,Clifford D. Simak,1952,7.82,95
+obr:work:diamond-dogs-turquoise-days,380,"Diamond Dogs, Turquoise Days",Alastair Reynolds,2003,7.82,112
+obr:work:blue-mars,381,Blue Mars,Kim Stanley Robinson,1996,7.82,253
+obr:work:shards-of-a-broken-crown,382,Shards of a Broken Crown,Raymond E. Feist,1998,7.82,103
+obr:work:change-agent,383,Change Agent,Daniel Suarez,,7.82,156
+obr:work:black-ops,384,Black Ops,Craig Alanson,2017,7.82,211
+obr:work:the-day-of-the-triffids,385,The Day of the Triffids,John Wyndham,1951,7.81,463
+obr:work:oryx-and-crake,386,Oryx and Crake,Margaret Atwood,2003,7.81,874
+obr:work:count-zero,387,Count Zero,William Gibson,1986,7.81,513
+obr:work:the-fever-code,388,The Fever Code,James Dashner,2016,7.81,176
+obr:work:inversions,389,Inversions,Iain Banks,1998,7.81,227
+obr:work:1632,390,1632,Eric Flint,2000,7.81,90
+obr:work:into-the-drowning-deep,391,Into the Drowning Deep,Seanan McGuire,2017,7.81,249
+obr:work:zero-history,392,Zero History,William Gibson,2010,7.81,152
+obr:work:blue-remembered-earth,393,Blue Remembered Earth,Alastair Reynolds,2012,7.81,132
+obr:work:all-the-weyrs-of-pern,394,All the Weyrs of Pern,Anne McCaffrey,1991,7.81,90
+obr:work:the-nightmare-stacks,395,The Nightmare Stacks,Charles Stross,2016,7.81,114
+obr:work:frankenstein-or-the-modern-prometheus,396,"Frankenstein; or, The Modern Prometheus",Mary Shelley,1818,7.8,3074
+obr:work:around-the-world-in-eighty-days,397,Around the World in Eighty Days,Jules Verne,1872,7.8,96
+obr:work:the-stepford-wives,398,The Stepford Wives,Ira Levin,1972,7.8,210
+obr:work:the-city-of-ember-the-first-book-of-ember,399,The City of Ember,Jeanne DuPrau,2003,7.8,61
+obr:work:burning-chrome,400,Burning Chrome,William Gibson,1986,7.8,382
+obr:work:among-the-hidden,401,Among the Hidden,Margaret Peterson Haddix,1998,7.8,164
+obr:work:redshirts,402,Redshirts,John Scalzi,2012,7.8,1252
+obr:work:the-passage,403,The Passage,Justin Cronin,2010,7.8,705
+obr:work:the-rest-of-the-robots-cd7e4,404,The Rest of the Robots,Isaac Asimov,1964,7.8,76
+obr:work:the-space-between-worlds,405,The Space Between Worlds,Micaiah Johnson,2020,7.8,315
+obr:work:century-rain,406,Century Rain,Alastair Reynolds,2004,7.8,106
+obr:work:pathfinder,407,Pathfinder,Orson Scott Card,2010,7.8,120
+obr:work:march-upcountry,408,March Upcountry,David Weber,2001,7.8,71
+obr:work:morgawr,409,Morgawr,Terry Brooks,2002,7.8,65
+obr:work:the-nano-flower,410,The Nano Flower,Peter F. Hamilton,1995,7.8,62
+obr:work:trouble-on-paradise,411,Trouble on Paradise,Craig Alanson,2017,7.8,127
+obr:work:infernal-devices,412,Infernal Devices,Philip Reeve,2005,7.8,109
+obr:work:revelation-space,413,Revelation Space,Alastair Reynolds,2000,7.79,539
+obr:work:the-gods-of-mars,414,The Gods of Mars,Edgar Rice Burroughs,1918,7.79,86
+obr:work:the-positronic-man,415,The Positronic Man,Isaac Asimov,1992,7.79,52
+obr:work:the-lifecycle-of-software-objects,416,The Lifecycle of Software Objects,Ted Chiang,2010,7.79,106
+obr:work:dragonquest,417,Dragonquest,Anne McCaffrey,1971,7.79,189
+obr:work:the-capture,418,The Capture,Katherine Applegate,1997,7.79,59
+obr:work:the-martian-contingency,419,The Martian Contingency,Mary Robinette Kowal,2025,7.79,55
+obr:work:children-of-god,420,Children of God,Mary Doria Russell,1998,7.78,124
+obr:work:against-a-dark-background,421,Against a Dark Background,Iain Banks,1993,7.78,114
+obr:work:among-the-impostors,422,Among the Impostors,Margaret Peterson Haddix,2001,7.78,51
+obr:work:agent-to-the-stars,423,Agent to the Stars,John Scalzi,2005,7.78,277
+obr:work:the-masterharper-of-pern,424,The Masterharper of Pern,Anne McCaffrey,1998,7.78,85
+obr:work:the-invasion,425,The Invasion,Katherine Applegate,1996,7.78,124
+obr:work:krondor-tear-of-the-gods,426,Krondor: Tear of the Gods,Raymond E. Feist,2000,7.78,86
+obr:work:flatland,427,Flatland,Edwin Abbott Abbott,1884,7.77,99
+obr:work:a-scanner-darkly,428,A Scanner Darkly,Philip K. Dick,1977,7.77,551
+obr:work:tunnel-in-the-sky,429,"The Prize: The Epic Quest for Oil, Money, and Power",Robert A. Heinlein,1990,7.77,77
+obr:work:double-star,430,Double Star,Robert A. Heinlein,1956,7.77,117
+obr:work:shadow-of-the-giant,431,Shadow of the Giant,Orson Scott Card,2005,7.77,369
+obr:work:homeland-q10563546,432,Homeland,Cory Doctorow,2013,7.77,167
+obr:work:winterfair-gifts,433,Winterfair Gifts,Lois McMaster Bujold,2004,7.77,85
+obr:work:victory-conditions,434,Victory Conditions,Elizabeth Moon,2008,7.77,64
+obr:work:nightfall-51b88,435,Nightfall,Isaac Asimov,1941,7.76,207
+obr:work:ilium,436,Ilium,Dan Simmons,2003,7.76,231
+obr:work:the-adventures-of-captain-underpants,437,The Adventures of Captain Underpants,Dav Pilkey,1997,7.76,137
+obr:work:blood-music,438,Blood Music,Greg Bear,1985,7.76,161
+obr:work:gifts,439,Gifts,Ursula K. Le Guin,2004,7.76,55
+obr:work:crystal-singer,440,Crystal Singer,Anne McCaffrey,1982,7.76,66
+obr:work:the-annihilation-score,441,The Annihilation Score,Charles Stross,2015,7.76,128
+obr:work:a-quantum-murder,442,A Quantum Murder,Peter F. Hamilton,1994,7.76,60
+obr:work:the-warlord-of-mars,443,The Warlord of Mars,Edgar Rice Burroughs,1913,7.76,67
+obr:work:engaging-the-enemy,444,Engaging the Enemy,Elizabeth Moon,2006,7.76,72
+obr:work:stranger-in-a-strange-land,445,Stranger in a Strange Land,Robert A. Heinlein,1961,7.75,1014
+obr:work:2010-odyssey-two,446,2010: Odyssey Two,Arthur C. Clarke,1982,7.75,358
+obr:work:legend,447,Legend,Marie Lu,2011,7.75,760
+obr:work:the-drowned-cities,448,The Drowned Cities,Paolo Bacigalupi,2012,7.75,56
+obr:work:krondor-3bfc5,449,Krondor: The Assassins,Raymond E. Feist,1999,7.75,88
+obr:work:maelstrom,450,Maelstrom,Peter Watts,2001,7.75,60
+obr:work:predators-gold,451,Predator's Gold,Philip Reeve,2003,7.75,167
+obr:work:krondor-the-betrayal,452,Krondor: The Betrayal,Raymond E. Feist,1998,7.75,89
+obr:work:ringworld,453,Ringworld,Larry Niven,1970,7.74,849
+obr:work:time-out-of-joint,454,Time Out of Joint,Philip K. Dick,1959,7.74,91
+obr:work:the-white-dragon,455,The White Dragon,Anne McCaffrey,1978,7.74,192
+obr:work:foundation-and-chaos,456,Foundation and Chaos,Greg Bear,1998,7.74,78
+obr:work:lightning,457,Lightning,Dean Koontz,1988,7.74,113
+obr:work:hollow-world,458,Hollow World,Michael J. Sullivan,,7.74,54
+obr:work:the-gone-world,459,The Gone World,Tom Sweterlitsch,,7.74,319
+obr:work:the-dead-zone,460,The Dead Zone,Stephen King,1979,7.73,620
+obr:work:the-three-stigmata-of-palmer-eldritch,461,The Three Stigmata of Palmer Eldritch,Philip K. Dick,1965,7.73,250
+obr:work:the-candy-house,462,The Candy House,Jennifer Egan,2022,7.73,164
+obr:work:this-perfect-day,463,This Perfect Day,Ira Levin,1970,7.73,50
+obr:work:captain-underpants-and-the-perilous-plot-of-professor-poopypants,464,Captain Underpants and the Perilous Plot of Professor Poopypants,Dav Pilkey,2015,7.73,51
+obr:work:the-black-cloud,465,The Black Cloud,Fred Hoyle,1957,7.73,63
+obr:work:anvil-of-stars,466,Anvil of Stars,Greg Bear,1992,7.73,50
+obr:work:14-2be40,467,14,Peter Clines,,7.73,350
+obr:work:the-skies-of-pern,468,The Skies of Pern,Anne McCaffrey,2001,7.73,54
+obr:work:the-chronoliths,469,The Chronoliths,Robert Charles Wilson,2001,7.73,55
+obr:work:virals,470,Virals,Brendan Reichs,2010,7.73,73
+obr:work:slow-gods,471,Slow Gods,Claire North,2025,7.73,112
+obr:work:mindstar-rising,472,Mindstar Rising,Peter F. Hamilton,1993,7.72,89
+obr:work:poseidons-wake,473,Poseidon's Wake,Alastair Reynolds,2015,7.72,54
+obr:work:the-dolphins-of-pern,474,The Dolphins of Pern,Anne McCaffrey,1994,7.72,63
+obr:work:river-of-blue-fire,475,River of Blue Fire,Tad Williams,1998,7.72,116
+obr:work:the-encounter,476,The Encounter,Katherine Applegate,1996,7.72,71
+obr:work:fairest-q27537294,477,Fairest,Marissa Meyer,2015,7.72,344
+obr:work:metro-2033,478,Metro 2033,Dmitry Glukhovsky,2005,7.71,405
+obr:work:mostly-harmless,479,Mostly Harmless,Douglas Adams,1992,7.71,986
+obr:work:embassytown,480,Embassytown,China Miéville,2011,7.71,298
+obr:work:the-salmon-of-doubt,481,The Salmon of Doubt,Douglas Adams,2002,7.71,202
+obr:work:idoru,482,Idoru,William Gibson,1996,7.71,197
+obr:work:the-deep-9c09c,483,The Deep,Rivers Solomon,2019,7.71,235
+obr:work:quarantine,484,Quarantine,Greg Egan,1992,7.71,73
+obr:work:revenger,485,Revenger,Alastair Reynolds,2016,7.71,139
+obr:work:automatic-noodle,486,Automatic Noodle,Annalee Newitz,2025,7.71,293
+obr:work:dune-messiah,487,Dune Messiah,Frank Herbert,1969,7.71,2367
+obr:work:heavenly-tyrant,488,Heavenly Tyrant,Xiran Jay Zhao,2024,7.71,100
+obr:work:lucky-day,489,Lucky Day,Chuck Tingle,2025,7.71,85
+obr:work:the-merchant-of-death,490,The Merchant of Death,D. J. MacHale,2002,7.71,182
+obr:work:mechanicum,491,Mechanicum,Graham McNeill,2008,7.71,67
+obr:work:a-maze-of-death,492,A Maze of Death,Philip K. Dick,1970,7.71,60
+obr:work:solaris,493,Solaris,Stanisław Lem,1961,7.7,844
+obr:work:a-swiftly-tilting-planet,494,A Swiftly Tilting Planet,Madeleine L'Engle,1978,7.7,244
+obr:work:schilds-ladder,495,Schild's Ladder,Greg Egan,2002,7.7,53
+obr:work:captain-underpants-and-the-attack-of-the-talking-toilets,496,Captain Underpants and the Attack of the Talking Toilets,Dav Pilkey,2014,7.7,59
+obr:work:all-tomorrows-parties,497,All Tomorrow's Parties,William Gibson,1999,7.7,150
+obr:work:the-long-cosmos,498,The Long Cosmos,Terry Pratchett,2016,7.7,102
+obr:work:starman-jones,499,Starman Jones,Robert A. Heinlein,1953,7.7,52
+obr:work:time,500,Time,Stephen Baxter,1999,7.7,71
+obr:work:phules-company,501,Phule's Company,Robert Asprin,1990,7.7,52
+obr:work:walkaway,502,Walkaway,Cory Doctorow,2017,7.7,148
+obr:work:flow-my-tears-the-policeman-said,503,"Flow My Tears, the Policeman Said",Philip K. Dick,1974,7.69,239
+obr:work:the-boys-from-brazil,504,The Boys from Brazil,Ira Levin,1976,7.69,75
+obr:work:the-water-knife,505,The Water Knife,Paolo Bacigalupi,2015,7.69,180
+obr:work:protector,506,Protector,Larry Niven,1973,7.69,63
+obr:work:cryoburn,507,Cryoburn,Lois McMaster Bujold,2010,7.69,136
+obr:work:son-63bc1,508,Son,Lois Lowry,2012,7.69,248
+obr:work:the-shadow-of-the-torturer,509,The Shadow of the Torturer,Gene Wolfe,1980,7.68,375
+obr:work:the-yiddish-policemens-union,510,The Yiddish Policemen's Union,Michael Chabon,2007,7.68,321
+obr:work:a-wind-in-the-door-time-quintet-2,511,A Wind in the Door,Madeleine L'Engle,1973,7.68,289
+obr:work:utopia-avenue,512,Utopia Avenue,David Mitchell,2020,7.68,104
+obr:work:to-your-scattered-bodies-go,513,To Your Scattered Bodies Go,Philip José Farmer,1971,7.68,179
+obr:work:the-long-utopia,514,The Long Utopia,Terry Pratchett,2015,7.68,121
+obr:work:many-waters,515,Many Waters,Madeleine L'Engle,1986,7.68,149
+obr:work:god-emperor-of-dune,516,God Emperor of Dune,Frank Herbert,1981,7.67,923
+obr:work:it-cant-happen-here,517,It Can't Happen Here,Sinclair Lewis,1935,7.67,106
+obr:work:mockingjay,518,Mockingjay,Suzanne Collins,2010,7.67,5457
+obr:work:pattern-recognition,519,Pattern Recognition,William Gibson,2003,7.67,446
+obr:work:american-war,520,American War,Omar El Akkad,2017,7.67,180
+obr:work:galapagos,521,Galápagos,Kurt Vonnegut,1985,7.67,311
+obr:work:virtual-light,522,Virtual Light,William Gibson,1993,7.67,197
+obr:work:the-dream-hotel,523,The Dream Hotel,Laila Lalami,2025,7.67,110
+obr:work:the-light-of-other-days,524,The Light of Other Days,Stephen Baxter,2000,7.67,56
+obr:work:the-worthing-saga,525,The Worthing Saga,Orson Scott Card,1990,7.67,59
+obr:work:a-hymn-before-battle,526,A Hymn Before Battle,John Ringo,2000,7.67,64
+obr:work:black-sun-rising,527,Black Sun Rising,Celia S. Friedman,1991,7.67,121
+obr:work:never-let-me-go,528,Never Let Me Go,Kazuo Ishiguro,2005,7.66,2013
+obr:work:island,529,Island,Aldous Huxley,1962,7.66,111
+obr:work:the-lost-world,530,The Lost World,Arthur Conan Doyle,1912,7.66,237
+obr:work:leviathan-q3272008,531,Leviathan,Scott Westerfeld,2009,7.66,298
+obr:work:termination-shock,532,Termination Shock,Neal Stephenson,2021,7.66,257
+obr:work:antimatter-blues,533,Antimatter Blues,Edward Ashton,2023,7.66,178
+obr:work:the-mist,534,The Mist,Stephen King,1980,7.65,510
+obr:work:out-of-the-silent-planet,535,Out of the Silent Planet,C. S. Lewis,1938,7.65,393
+obr:work:valis,536,VALIS,Philip K. Dick,1981,7.65,185
+obr:work:perelandra,537,Perelandra,C. S. Lewis,1943,7.65,194
+obr:work:a-fall-of-moondust,538,A Fall of Moondust,Arthur C. Clarke,1961,7.65,56
+obr:work:shadow-of-the-hegemon,539,Shadow of the Hegemon,Orson Scott Card,2001,7.65,451
+obr:work:little-fuzzy,540,Little Fuzzy,H. Beam Piper,1962,7.65,75
+obr:work:with-a-tangled-skein,541,With a Tangled Skein,Piers Anthony,1985,7.65,100
+obr:work:red-mars,542,Red Mars,Kim Stanley Robinson,1992,7.65,710
+obr:work:ex-purgatory,543,Ex-Purgatory,Peter Clines,,7.65,50
+obr:work:paradox-bound-a-novel,544,Paradox Bound: A Novel,Peter Clines,,7.65,141
+obr:work:fulgrim,545,Fulgrim,Graham McNeill,2007,7.65,105
+obr:work:the-ballad-of-songbirds-and-snakes,546,The Ballad of Songbirds and Snakes,Suzanne Collins,2020,7.64,1709
+obr:work:fantastic-voyage,547,Fantastic Voyage,Isaac Asimov,1966,7.64,89
+obr:work:the-midwich-cuckoos,548,The Midwich Cuckoos,John Wyndham,1957,7.64,107
+obr:work:the-chrysalids,549,The Chrysalids,John Wyndham,1955,7.64,207
+obr:work:agency,550,Agency,William Gibson,2020,7.64,168
+obr:work:transition,551,Transition,Iain Banks,2009,7.64,86
+obr:work:the-integral-trees,552,The Integral Trees,Larry Niven,1984,7.64,51
+obr:work:red-planet,553,Red Planet,Robert A. Heinlein,1951,7.64,52
+obr:work:titan,554,Titan,John Varley,1979,7.64,63
+obr:work:johnny-and-the-bomb,555,Johnny and the Bomb,Terry Pratchett,1996,7.64,53
+obr:work:wake,556,Wake,Robert J. Sawyer,2008,7.64,82
+obr:work:ogre-ogre,557,"Ogre, Ogre",Piers Anthony,1982,7.64,83
+obr:work:the-predator,558,The Predator,Katherine Applegate,1996,7.64,53
+obr:work:sleeping-giants-17448,559,Sleeping Giants,Sylvain Neuvel,2016,7.64,726
+obr:work:lucifers-hammer,560,Lucifer's Hammer,Larry Niven,1977,7.63,227
+obr:work:methuselahs-children,561,Methuselah's Children,Robert A. Heinlein,1958,7.63,78
+obr:work:darwins-radio,562,Darwin's Radio,Greg Bear,1999,7.63,103
+obr:work:space-cadet,563,Space Cadet,Robert A. Heinlein,1948,7.63,51
+obr:work:citizen-of-the-galaxy,564,Citizen of the Galaxy,Robert A. Heinlein,1957,7.63,93
+obr:work:moreta,565,Moreta: Dragonlady of Pern,Anne McCaffrey,1983,7.63,99
+obr:work:and-eternity,566,And Eternity,Piers Anthony,1990,7.63,61
+obr:work:the-paradise-snare,567,The Paradise Snare,A. C. Crispin,1997,7.63,82
+obr:work:ruins,568,Ruins,Orson Scott Card,2012,7.63,65
+obr:work:trading-in-danger,569,Trading in Danger,Elizabeth Moon,2003,7.63,102
+obr:work:maddaddam,570,MaddAddam,Margaret Atwood,2013,7.62,301
+obr:work:eon,571,Eon,Greg Bear,1985,7.62,189
+obr:work:patternmaster,572,Patternmaster,Octavia E. Butler,1976,7.62,58
+obr:work:city-of-golden-shadow,573,City of Golden Shadow,Tad Williams,1996,7.62,169
+obr:work:beyond-the-blue-event-horizon,574,Beyond the Blue Event Horizon,Frederik Pohl,1980,7.62,92
+obr:work:clays-ark,575,Clay's Ark,Octavia E. Butler,1984,7.62,56
+obr:work:time-for-the-stars,576,Time for the Stars,Robert A. Heinlein,1956,7.62,56
+obr:work:for-the-win,577,For the Win,Cory Doctorow,2010,7.62,97
+obr:work:schools-out-forever,578,School's Out Forever,James Patterson,2006,7.62,183
+obr:work:dragondrums,579,Dragondrums,Anne McCaffrey,1979,7.62,145
+obr:work:the-visitor-f8589,580,The Visitor,Katherine Applegate,1996,7.62,73
+obr:work:the-midnight-library,581,The Midnight Library,Matt Haig,2020,7.61,3358
+obr:work:the-power,582,The Power,Naomi Alderman,2016,7.61,677
+obr:work:the-diamond-of-darkhold,583,The Diamond of Darkhold,Jeanne DuPrau,2008,7.61,88
+obr:work:planet-of-exile,584,Planet of Exile,Ursula K. Le Guin,1966,7.61,113
+obr:work:nova,585,Nova,Samuel R. Delany,1968,7.61,58
+obr:work:quicksilver,586,Quicksilver,Neal Stephenson,2003,7.61,328
+obr:work:falling-free,587,Falling Free,Lois McMaster Bujold,1988,7.61,196
+obr:work:castle-roogna,588,Castle Roogna,Piers Anthony,1979,7.61,120
+obr:work:from-the-earth-to-the-moon,589,From the Earth to the Moon,Jules Verne,1865,7.61,114
+obr:work:on-the-beach,590,On the Beach,Nevil Shute,1957,7.6,169
+obr:work:that-hideous-strength,591,That Hideous Strength,C. S. Lewis,1945,7.6,156
+obr:work:the-door-into-summer,592,The Door into Summer,Robert A. Heinlein,1956,7.6,132
+obr:work:an-acceptable-time,593,An Acceptable Time,Madeleine L'Engle,1989,7.6,80
+obr:work:shadows-in-flight,594,Shadows in Flight,Orson Scott Card,2012,7.6,147
+obr:work:a-world-out-of-time,595,A World Out of Time,Larry Niven,1976,7.6,51
+obr:work:dragon-on-a-pedestal,596,Dragon on a Pedestal,Piers Anthony,1983,7.6,71
+obr:work:the-iron-heel,597,The Iron Heel,Jack London,1908,7.59,52
+obr:work:johnny-mnemonic,598,Johnny Mnemonic,William Gibson,1981,7.59,74
+obr:work:footfall,599,Footfall,Larry Niven,1985,7.59,93
+obr:work:slapstick,600,Slapstick,Kurt Vonnegut,1976,7.59,143
+obr:work:raft,601,Raft,Stephen Baxter,1991,7.59,79
+obr:work:the-snow-queen,602,The Snow Queen,Joan D. Vinge,1980,7.59,77
+obr:work:glory-road,603,Glory Road,Robert A. Heinlein,1963,7.59,55
+obr:work:the-future-of-another-timeline,604,The Future of Another Timeline,Annalee Newitz,2019,7.59,100
+obr:work:gentleman-jole-and-the-red-queen,605,Gentleman Jole and the Red Queen,Lois McMaster Bujold,2016,7.59,94
+obr:work:brightness-reef,606,Brightness Reef,David Brin,1995,7.59,74
+obr:work:hominids,607,Hominids,Robert J. Sawyer,2002,7.59,102
+obr:work:the-atrocity-archives,608,The Atrocity Archives,Charles Stross,2004,7.59,363
+obr:work:star-maker,609,Star Maker,Olaf Stapledon,1937,7.58,66
+obr:work:the-forge-of-god-39fcc,610,The Forge of God,Greg Bear,1987,7.58,122
+obr:work:the-last-shadow,611,The Last Shadow,Orson Scott Card,2021,7.58,58
+obr:work:new-york-2140,612,New York 2140,Kim Stanley Robinson,2017,7.58,148
+obr:work:le-jihad-butlerien-dune-la-genese-tome-2,613,Dune: The Machine Crusade,Brian Herbert,2003,7.58,73
+obr:work:to-sail-beyond-the-sunset,614,To Sail Beyond the Sunset,Robert A. Heinlein,1987,7.58,54
+obr:work:the-stainless-steel-rat,615,The Stainless Steel Rat,Harry Harrison,1961,7.58,136
+obr:work:deathworld-1,616,Deathworld,Harry Harrison,1960,7.58,63
+obr:work:klara-and-the-sun,617,Klara and the Sun,Kazuo Ishiguro,2021,7.57,1314
+obr:work:the-time-machine,618,The Time Machine,H. G. Wells,1895,7.57,1704
+obr:work:absolution,619,Absolution,Jeff VanderMeer,2024,7.57,111
+obr:work:the-penultimate-truth,620,The Penultimate Truth,Philip K. Dick,1964,7.57,58
+obr:work:terminal-world,621,Terminal World,Alastair Reynolds,2010,7.57,75
+obr:work:provenance-ec346,622,Provenance,Ann Leckie,2017,7.57,278
+obr:work:nemesis-cb084,623,Nemesis,Isaac Asimov,1989,7.57,101
+obr:work:interworld,624,InterWorld,Neil Gaiman,2007,7.57,102
+obr:work:farmer-in-the-sky,625,Farmer in the Sky,Robert A. Heinlein,1950,7.57,57
+obr:work:heechee-rendezvous,626,Heechee Rendezvous,Frederik Pohl,1984,7.57,72
+obr:work:saving-the-world-and-other-extreme-sports,627,Saving the World and Other Extreme Sports,James Patterson,2007,7.57,152
+obr:work:the-message-q7751123,628,The Message,Katherine Applegate,1996,7.57,57
+obr:work:foreigner,629,Foreigner,C. J. Cherryh,1994,7.57,72
+obr:work:the-maze-runner,630,The Maze Runner,James Dashner,2009,7.56,2116
+obr:work:under-the-dome,631,Under the Dome,Stephen King,2009,7.56,780
+obr:work:the-years-of-rice-and-salt,632,The Years of Rice and Salt,Kim Stanley Robinson,2002,7.56,108
+obr:work:the-rise-and-fall-of-d-o-d-o,633,The Rise and Fall of D.O.D.O.,Neal Stephenson,2017,7.56,356
+obr:work:the-gripping-hand,634,The Gripping Hand,Larry Niven,1993,7.56,107
+obr:work:the-rowan,635,The Rowan,Anne McCaffrey,1990,7.56,63
+obr:work:angel,636,Angel,James Patterson,2011,7.56,59
+obr:work:time-enough-for-love,637,Time Enough for Love,Robert A. Heinlein,1973,7.56,121
+obr:work:annihilation,638,Annihilation,Jeff VanderMeer,2014,7.55,2135
+obr:work:player-piano,639,Player Piano,Kurt Vonnegut,1952,7.55,285
+obr:work:xenocide,640,Xenocide,Orson Scott Card,1991,7.55,1103
+obr:work:pebble-in-the-sky,641,Pebble in the Sky,Isaac Asimov,1950,7.55,229
+obr:work:orphans-of-the-sky,642,Orphans of the Sky,Robert A. Heinlein,1963,7.55,59
+obr:work:iron-council,643,Iron Council,China Miéville,2004,7.55,145
+obr:work:carve-the-mark,644,Carve the Mark,Veronica Roth,2017,7.55,158
+obr:work:times-eye,645,Time's Eye,Arthur C. Clarke,2003,7.55,59
+obr:work:the-fabulous-riverboat,646,The Fabulous Riverboat,Philip José Farmer,1971,7.55,66
+obr:work:binti,647,Binti: Home,Nnedi Okorafor,2017,7.55,595
+obr:work:slow-bullets,648,Slow Bullets,Alastair Reynolds,2015,7.55,85
+obr:work:destroy-me,649,Destroy Me,Tahereh Mafi,2012,7.55,350
+obr:work:a-wrinkle-in-time,650,A Wrinkle in Time,Madeleine L'Engle,1963,7.54,1913
+obr:work:the-lost-world-f06bb,651,The Lost World,Michael Crichton,1995,7.54,727
+obr:work:mickey7,652,Mickey7,Edward Ashton,2022,7.54,545
+obr:work:make-room-make-room,653,Make Room! Make Room!,Harry Harrison,1966,7.54,55
+obr:work:dragonflight,654,Dragonflight,Anne McCaffrey,1968,7.54,458
+obr:work:the-long-earth,655,The Long Earth,Terry Pratchett,2012,7.54,477
+obr:work:ender-in-exile,656,Ender in Exile,Orson Scott Card,2008,7.54,316
+obr:work:eternity,657,Eternity,Greg Bear,1988,7.54,55
+obr:work:the-5th-wave,658,The 5th Wave,Rick Yancey,2013,7.54,560
+obr:work:dune-the-battle-of-corrin,659,Dune: The Battle of Corrin,Kevin J. Anderson,2004,7.54,70
+obr:work:the-war-of-the-worlds,660,The War of the Worlds,H. G. Wells,1897,7.53,1198
+obr:work:shadow-puppets,661,Shadow Puppets,Orson Scott Card,2002,7.53,331
+obr:work:how-high-we-go-in-the-dark,662,How High We Go in the Dark,Sequoia Nagamatsu,2022,7.53,416
+obr:work:the-frugal-wizards-handbook-for-surviving-medieval-england,663,The Frugal Wizard's Handbook for Surviving Medieval England,Brandon Sanderson,2023,7.53,765
+obr:work:who-goes-there,664,Who Goes There?,John W. Campbell,1938,7.52,83
+obr:work:nightflyers,665,Nightflyers,George R. R. Martin,1980,7.52,82
+obr:work:forever-peace,666,Forever Peace,Joe Haldeman,1997,7.52,141
+obr:work:all-the-birds-in-the-sky,667,All the Birds in the Sky,Charlie Jane Anders,2016,7.52,378
+obr:work:the-ship-who-sang,668,The Ship Who Sang,Anne McCaffrey,1969,7.52,93
+obr:work:the-memory-of-earth,669,The Memory of Earth,Orson Scott Card,1992,7.52,97
+obr:work:victories-greater-than-death,670,Victories Greater Than Death,Charlie Jane Anders,2021,7.52,51
+obr:work:the-ships-of-earth,671,The Ships of Earth,Orson Scott Card,1994,7.52,67
+obr:work:only-human-07d80,672,Only Human,Sylvain Neuvel,2018,7.52,291
+obr:work:radiance,673,Radiance,Catherynne M. Valente,2015,7.52,58
+obr:work:ninefox-gambit,674,Ninefox Gambit,Yoon Ha Lee,2016,7.52,307
+obr:work:sphere,675,Sphere,Michael Crichton,1987,7.51,753
+obr:work:last-and-first-men,676,Last and First Men,Olaf Stapledon,1930,7.51,52
+obr:work:dying-of-the-light,677,Dying of the Light,George R. R. Martin,1977,7.51,55
+obr:work:the-dark-side-of-the-sun,678,The Dark Side of the Sun,Terry Pratchett,1976,7.51,52
+obr:work:only-you-can-save-mankind-q3226944,679,Only You Can Save Mankind,Terry Pratchett,1992,7.51,101
+obr:work:the-andromeda-strain,680,The Andromeda Strain,Michael Crichton,1969,7.5,853
+obr:work:chapterhouse-dune,681,Chapterhouse: Dune,Frank Herbert,1985,7.5,438
+obr:work:messenger,682,Messenger,Lois Lowry,2004,7.5,297
+obr:work:timequake,683,Timequake,Kurt Vonnegut,1997,7.5,133
+obr:work:when-the-moon-hits-your-eye,684,When the Moon Hits Your Eye,John Scalzi,2025,7.5,238
+obr:work:dune-house-harkonnen,685,Dune: House Harkonnen,Kevin J. Anderson,2000,7.5,89
+obr:work:zoes-tale,686,Zoe's Tale,John Scalzi,2008,7.5,507
+obr:work:dune-house-corrino,687,Dune: House Corrino,Brian Herbert,2001,7.5,91
+obr:work:shards-of-honor,688,Shards of Honor,Lois McMaster Bujold,1986,7.5,118
+obr:work:interface,689,Interface,Neal Stephenson,1994,7.5,76
+obr:work:the-call-of-earth,690,The Call of Earth,Orson Scott Card,1993,7.5,73
+obr:work:the-running-man,691,The Running Man,Stephen King,1982,7.49,579
+obr:work:echopraxia,692,Echopraxia,Peter Watts,2014,7.49,210
+obr:work:rama-revealed,693,Rama Revealed,Arthur C. Clarke,1993,7.49,122
+obr:work:spook-country,694,Spook Country,William Gibson,2007,7.49,201
+obr:work:the-eye-of-minds,695,The Eye of Minds,James Dashner,2013,7.49,109
+obr:work:fang,696,Fang,James Patterson,2010,7.49,92
+obr:work:dune-the-butlerian-jihad,697,Dune: The Butlerian Jihad,Kevin J. Anderson,2002,7.49,155
+obr:work:sandworms-of-dune,698,Sandworms of Dune,Brian Herbert,2007,7.48,91
+obr:work:herland,699,Herland,Charlotte Perkins Gilman,1915,7.48,57
+obr:work:aurora,700,Aurora,Kim Stanley Robinson,2015,7.48,326
+obr:work:the-puppet-masters,701,The Puppet Masters,Robert A. Heinlein,1954,7.48,101
+obr:work:ethan-of-athos,702,Ethan of Athos,Lois McMaster Bujold,1986,7.48,149
+obr:work:the-renegades-of-pern,703,The Renegades of Pern,Anne McCaffrey,1989,7.48,83
+obr:work:earthfall,704,Earthfall,Orson Scott Card,1995,7.48,58
+obr:work:the-strange-case-of-dr-jekyll-and-mr-hyde,705,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,Robert Louis Stevenson,2002,7.48,1363
+obr:work:have-space-suit-will-travel,706,Have Space Suit—Will Travel,Robert A. Heinlein,1958,7.48,145
+obr:work:heretics-of-dune,707,Heretics of Dune,Frank Herbert,1984,7.47,603
+obr:work:to-sleep-in-a-sea-of-stars,708,To Sleep in a Sea of Stars,Christopher Paolini,2020,7.47,532
+obr:work:divergent,709,Divergent,Veronica Roth,2011,7.46,3294
+obr:work:dhalgren,710,Dhalgren,Samuel R. Delany,1975,7.46,60
+obr:work:feed,711,Feed,M. T. Anderson,2002,7.46,189
+obr:work:friday,712,Friday,Robert A. Heinlein,1982,7.46,120
+obr:work:nevermore,713,Nevermore,James Patterson,2012,7.46,68
+obr:work:the-ringworld-engineers,714,The Ringworld Engineers,Larry Niven,1979,7.46,245
+obr:work:dune-house-atreides,715,Dune: House Atreides,Kevin J. Anderson,1999,7.46,113
+obr:work:the-gunslinger,716,The Dark Tower: The Gunslinger,Stephen King,1982,7.45,2378
+obr:work:mortal-engines,717,Mortal Engines,Philip Reeve,2001,7.45,346
+obr:work:the-first-men-in-the-moon,718,The First Men in the Moon,H. G. Wells,1901,7.45,86
+obr:work:babel-17,719,Babel-17,Samuel R. Delany,1966,7.45,165
+obr:work:earthborn,720,Earthborn,Orson Scott Card,1995,7.45,62
+obr:work:the-ministry-for-the-future,721,The Ministry for the Future,Kim Stanley Robinson,2020,7.44,347
+obr:work:firestarter,722,Firestarter,Stephen King,1980,7.44,529
+obr:work:children-of-the-mind,723,Children of the Mind,Orson Scott Card,1996,7.44,607
+obr:work:dies-the-fire,724,Dies the Fire,S. M. Stirling,2004,7.44,92
+obr:work:the-angel-experiment,725,The Angel Experiment,James Patterson,2005,7.44,341
+obr:work:autonomous,726,Autonomous,Annalee Newitz,2017,7.44,234
+obr:work:the-long-mars,727,The Long Mars,Terry Pratchett,2014,7.44,150
+obr:work:a-princess-of-mars,728,A Princess of Mars,Edgar Rice Burroughs,1917,7.43,301
+obr:work:prey,729,Prey,Michael Crichton,2002,7.43,547
+obr:work:rose-house,730,Rose/House,Arkady Martine,2023,7.43,101
+obr:work:the-adoration-of-jenna-fox,731,The Adoration of Jenna Fox,Mary E. Pearson,,7.43,75
+obr:work:gathering-blue,732,Gathering Blue,Lois Lowry,2000,7.42,473
+obr:work:rocannons-world,733,Rocannon's World,Ursula K. Le Guin,1966,7.42,224
+obr:work:the-infinite-sea,734,The Infinite Sea,Rick Yancey,2014,7.42,236
+obr:work:the-currents-of-space,735,The Currents of Space,Isaac Asimov,1952,7.42,200
+obr:work:strata,736,Strata,Terry Pratchett,1981,7.42,79
+obr:work:wild-cards,737,Wild Cards,George R. R. Martin,1987,7.42,128
+obr:work:the-scorch-trials,738,The Scorch Trials,James Dashner,2010,7.41,1182
+obr:work:the-garden-of-rama,739,The Garden of Rama,Arthur C. Clarke,1991,7.41,168
+obr:work:jedi-search,740,Jedi Search,Kevin J. Anderson,1994,7.41,76
+obr:work:axis,741,Axis,Robert Charles Wilson,2007,7.4,103
+obr:work:the-number-of-the-beast,742,The Number of the Beast,Robert A. Heinlein,1980,7.39,54
+obr:work:tyrannosaur-canyon,743,Tyrannosaur Canyon,Douglas Preston,2005,7.39,65
+obr:work:airframe,744,Airframe,Michael Crichton,1996,7.38,374
+obr:work:the-people-of-sparks,745,The People of Sparks,Jeanne DuPrau,2004,7.38,154
+obr:work:orbital,746,Orbital,Samantha Harvey,2024,7.37,465
+obr:work:consider-phlebas,747,Consider Phlebas,Iain Banks,1987,7.36,985
+obr:work:down-and-out-in-the-magic-kingdom,748,Down and Out in the Magic Kingdom,Cory Doctorow,2003,7.36,208
+obr:work:the-state-of-the-art,749,The State of the Art,Iain Banks,1989,7.36,255
+obr:work:i-will-fear-no-evil,750,I Will Fear No Evil,Robert A. Heinlein,1970,7.36,52
+obr:work:the-einstein-intersection,751,The Einstein Intersection,Samuel R. Delany,1967,7.36,61
+obr:work:ringworlds-children,752,Ringworld's Children,Larry Niven,2004,7.36,93
+obr:work:the-luminous-dead,753,The Luminous Dead,Caitlin Starling,2019,7.36,204
+obr:work:pretties,754,Pretties,Scott Westerfeld,2005,7.36,454
+obr:work:the-ministry-of-time,755,The Ministry of Time,Kaliane Bradley,2024,7.35,693
+obr:work:2312,756,2312,Kim Stanley Robinson,2012,7.35,164
+obr:work:hull-zero-three,757,Hull Zero Three,Greg Bear,2010,7.34,85
+obr:work:acceptance,758,Acceptance,Jeff VanderMeer,2014,7.33,611
+obr:work:timeline,759,Timeline,Michael Crichton,1999,7.33,642
+obr:work:the-drowned-world,760,The Drowned World,J. G. Ballard,1962,7.33,86
+obr:work:artemis,761,Artemis,Andy Weir,2017,7.32,2464
+obr:work:the-host-abf9e,762,The Host,Stephenie Meyer,2008,7.32,801
+obr:work:the-island-of-dr-moreau,763,The Island of Dr Moreau,H. G. Wells,1896,7.31,448
+obr:work:the-terminal-man,764,The Terminal Man,Michael Crichton,1972,7.31,134
+obr:work:insurgent,765,Insurgent,Veronica Roth,2012,7.31,1928
+obr:work:uglies,766,Uglies,Scott Westerfeld,2005,7.3,802
+obr:work:micro,767,Micro,Michael Crichton,2011,7.3,140
+obr:work:the-final-warning,768,The Final Warning,James Patterson,2008,7.3,109
+obr:work:the-big-u,769,The Big U,Neal Stephenson,1984,7.27,53
+obr:work:rama-ii,770,Rama II,Arthur C. Clarke,1989,7.26,227
+obr:work:the-stars-like-dust,771,"The Stars, Like Dust",Isaac Asimov,1951,7.24,245
+obr:work:the-city-in-the-middle-of-the-night,772,The City in the Middle of the Night,Charlie Jane Anders,2019,7.24,142
+obr:work:the-cat-who-walks-through-walls,773,The Cat Who Walks Through Walls,Robert A. Heinlein,1985,7.24,105
+obr:work:fractal-noise,774,Fractal Noise,Christopher Paolini,,7.23,128
+obr:work:the-children-of-men,775,The Children of Men,P. D. James,1992,7.22,179
+obr:work:the-invisible-man,776,The Invisible Man,H. G. Wells,1897,7.21,776
+obr:work:the-long-war,777,The Long War,Terry Pratchett,2013,7.21,243
+obr:work:space-opera,778,Space Opera,Catherynne M. Valente,2018,7.2,168
+obr:work:metro-2034,779,Metro 2034,Dmitry Glukhovsky,2009,7.19,138
+obr:work:state-of-fear,780,State of Fear,Michael Crichton,2004,7.18,221
+obr:work:fall-or-dodge-in-hell,781,"Fall; or, Dodge in Hell",Neal Stephenson,2019,7.18,302
+obr:work:the-last-star-1cce7,782,The Last Star,Rick Yancey,2016,7.18,129
+obr:work:misspent-youth,783,Misspent Youth,Peter F. Hamilton,2002,7.18,64
+obr:work:the-ringworld-throne,784,The Ringworld Throne,Larry Niven,1996,7.16,119
+obr:work:the-man-in-the-high-castle,785,The Man in the High Castle,Philip K. Dick,1962,7.14,1273
+obr:work:the-death-cure,786,The Death Cure,James Dashner,2011,7.14,983
+obr:work:the-kill-order,787,The Kill Order,James Dashner,2012,7.13,338
+obr:work:extras,788,Extras,Scott Westerfeld,2007,7.13,237
+obr:work:deception-point,789,Deception Point,Dan Brown,2001,7.12,1178
+obr:work:the-heart-goes-last,790,The Heart Goes Last,Margaret Atwood,2015,7.12,170
+obr:work:authority,791,Authority,Jeff VanderMeer,2014,7.11,806
+obr:work:congo,792,Congo,Michael Crichton,1980,7.09,510
+obr:work:the-difference-engine,793,The Difference Engine,William Gibson,1990,7.08,165
+obr:work:next,794,Next,Michael Crichton,2006,7.06,244
+obr:work:the-tommyknockers,795,The Tommyknockers,Stephen King,1987,7.05,382
+obr:work:anthem,796,Anthem,Ayn Rand,1938,7.04,433
+obr:work:how-to-live-safely-in-a-science-fictional-universe,797,How to Live Safely in a Science Fictional Universe,Charles Yu,2010,7.04,186
+obr:work:the-prophet-of-yonwood,798,The Prophet of Yonwood,Jeanne DuPrau,2006,7.03,105
+obr:work:zoo,799,Zoo,James Patterson,2012,6.98,69
+obr:work:aftermath,800,Aftermath,Chuck Wendig,2015,6.9,248
+obr:work:dreamcatcher,801,Dreamcatcher,Stephen King,2001,6.89,393
+obr:work:armada,802,Armada,Ernest Cline,2015,6.87,916
+obr:work:the-circle,803,The Circle,Dave Eggers,2016,6.8,730
+obr:work:allegiant,804,Allegiant,Veronica Roth,2013,6.61,1479
+obr:work:ready-player-two,805,Ready Player Two,Ernest Cline,2020,6.5,1104
